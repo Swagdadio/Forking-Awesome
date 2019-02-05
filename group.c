@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void member1(void) {
 
@@ -31,13 +30,18 @@ int main(void) {
 	printf("Cole Brooks\n");
 	printf("Nathan Burkhart\n");
 	printf("Kevin Christensen\n");
-	printf("\n----------------------------------\n");
+	printf("----------------------------------\n");
 
 	member1();
+	printf("----------------------------------\n");
 	member2();
+	printf("----------------------------------\n");
 	member3();
+	printf("----------------------------------\n");
 	member4();
+	printf("----------------------------------\n");
 	member5();
+	printf("----------------------------------\n");
 
 	return 0;
 }
