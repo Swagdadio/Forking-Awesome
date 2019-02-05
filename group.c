@@ -7,6 +7,7 @@ void member1(void) {
 void member2(void) {
 printf("Max Brandwine\n");
 printf("2nd year\n");
+printf("Computer Science\n");
 }
 void member3(void) {
 
