@@ -12,7 +12,12 @@ void member2(void) {
 	printf("Nothing\n");
 }
 void member3(void) {
-
+	printf("Name: Cole Brooks\n");
+	printf("Year in school: Sophomore\n");
+	printf("Major: Computer Science with Mathematics minor\n");
+	printf("Hobbies: Linux, skiing, math, cars\n");
+	printf("Grew up in: Missoula MT\n");
+	printf("\n");
 }
 void member4(void) {
 
