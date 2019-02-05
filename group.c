@@ -21,6 +21,9 @@ void member4(void) {
 void member5(void) {
   printf("Kevin Christensen");
 	printf("Like, third year or something. It's been on and off");
+	printf("Computer Science.");
+	printf("Having coffee with old people.")
+	
 }
 
 int main(void) {
