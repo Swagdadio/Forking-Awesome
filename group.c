@@ -10,6 +10,7 @@ printf("2nd year\n");
 printf("Computer Science\n");
 printf("My dog\n");
 printf("Atlanta, GA (unfortunately)\n");
+printf("Nothing\n");
 }
 void member3(void) {
 
