@@ -9,6 +9,7 @@ printf("Max Brandwine\n");
 printf("2nd year\n");
 printf("Computer Science\n");
 printf("My dog\n");
+printf("Atlanta, GA (unfortunately)\n");
 }
 void member3(void) {
 
