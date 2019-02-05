@@ -5,7 +5,8 @@ void member1(void) {
 
 }
 void member2(void) {
-
+printf("Max Brandwine\n");
+printf("2nd year\n");
 }
 void member3(void) {
 
