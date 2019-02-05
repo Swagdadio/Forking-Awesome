@@ -15,6 +15,12 @@ void member3(void) {
 
 }
 void member4(void) {
+	printf("Nathan Burkhart\n");
+	printf("1st year in school\n");
+	printf("Computer Science Major\n");
+	printf("Hobbies include video games and D&D\n");
+	printf("Grew up in Hillsboro, Or\n");
+	printf("Non-traditional freshman after taking a break for 6 years\n");	
 
 }
 void member5(void) {
