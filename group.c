@@ -19,11 +19,12 @@ void member4(void) {
 
 }
 void member5(void) {
-  printf("Kevin Christensen");
-	printf("Like, third year or something. It's been on and off");
+  printf("Kevin Christensen.");
+	printf("Like, third year or something. It's been on and off.");
 	printf("Computer Science.");
-	printf("Having coffee with old people.")
-	
+	printf("Having coffee with old people.");
+	printf("Anchorage, AK.");
+	printf("Contrary to popular belief, I'm not actually a professional.");
 }
 
 int main(void) {
