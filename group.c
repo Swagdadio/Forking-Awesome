@@ -13,7 +13,12 @@ printf("Atlanta, GA (unfortunately)\n");
 printf("Nothing\n");
 }
 void member3(void) {
-
+	printf("Name: Cole Brooks\n");
+	printf("\n");
+	printf("\n");
+	printf("\n");
+	printf("\n");
+	printf("\n");
 }
 void member4(void) {
 
