@@ -16,7 +16,7 @@ void member3(void) {
 	printf("Name: Cole Brooks\n");
 	printf("Year in school: Sophomore\n");
 	printf("Major: Computer Science with Mathematics minor\n");
-	printf("\n");
+	printf("Hobbies: Linux, skiing, math, cars\n");
 	printf("\n");
 	printf("\n");
 }
