@@ -3,6 +3,8 @@
 
 
 void member1(void){
+	printf("Shawn Bingham\n");
+	
 }
 void member2(void){
 }
