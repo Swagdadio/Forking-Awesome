@@ -39,7 +39,7 @@ void member5(void) {
 
 int main(void) {
 	printf("\n----------------------------------\n");
-	printf("Our Group is called: \n");
+	printf("Our Group is called: Forking Awesome\n");
 	printf("Group Members:\n");
 	printf("Shawn Bingham\n");
 	printf("Max Brandwine\n");
