@@ -6,7 +6,7 @@ void member1(void){
 	printf("Shawn Bingham\n");
 	printf("Junior\n");
 	printf("Major: Computational Physics\n");
-	
+	printf("From: Sun Valley, Id\n");
 }
 void member2(void){
 }
