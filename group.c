@@ -4,7 +4,7 @@
 
 void member1(void){
 	printf("Shawn Bingham\n");
-	
+	printf("Junior\n");
 }
 void member2(void){
 }
