@@ -5,6 +5,8 @@
 void member1(void){
 	printf("Shawn Bingham\n");
 	printf("Junior\n");
+	printf("Major: Computational Physics\n");
+	
 }
 void member2(void){
 }
